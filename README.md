@@ -8,4 +8,4 @@ L'admin pourra gerer les commandes, les membres ainsi que la boutiques (certaine
 
 Le client et les visiteurs pourront acceder à la boutique voir leur profil et acceder au panier.
 
-Je n'ai pas eu le temps de finir de styliser mon panier.
+Je n'ai pas eu le temps de finir de styliser mon panier et certaines autres pages.
